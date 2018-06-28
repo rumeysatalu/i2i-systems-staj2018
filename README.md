@@ -1,1 +1,1 @@
-# i2i-systems-staj2018
+# Ödevlerim
